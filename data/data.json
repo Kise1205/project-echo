@@ -4,7 +4,7 @@
     "description": "A retro-style platformer game built with p5.js featuring smooth physics, collectibles, and pixel art.",
     "liveUrl": "https://kise1205.github.io/urban-disco-bravo/",
     "sourceUrl": "https://github.com/Kise1205/urban-disco-bravo",
-    "image": "assets/images/Screenshot_Thumbnail.png",
+    "image": "image/bravo.png",
     "tags": ["HTML", "CSS", "Bootstrap", "Responsive", "JavaScript", "Game Development"]
   },
   {
@@ -12,7 +12,7 @@
     "description": "My first multi-page responsive website using HTML, CSS, Bootstrap, and interactive JS elements.",
     "liveUrl": "https://kise1205.github.io/Project-Alpha/",
     "sourceUrl": "https://github.com/Kise1205/Project-Alpha",
-    "image": "assets/images/unagaming.jpg",
+    "image": "image/alpha.png",
     "tags": ["HTML", "CSS", "Bootstrap", "Responsive"]
   },
   {
@@ -20,7 +20,7 @@
     "description": "A redesign of the traditional credit card expiration date input.",
     "liveUrl": "https://kise1205.github.io/Project-Delta/",
     "sourceUrl": "https://github.com/Kise1205/Project-Delta",
-    "image": "assets/images/unagaming.jpg",
+    "image": "image/delta.png",
     "tags": ["HTML", "CSS", "Bootstrap", "Responsive", "JavaScript"]
   },
   {
@@ -28,7 +28,7 @@
     "description": "This project collects and displays student-built games from the class, allowing users to browse, sort, and launch each game.",
     "liveUrl": "https://kise1205.github.io/project-charlie/",
     "sourceUrl": "https://github.com/Kise1205/project-charlie",
-    "image": "assets/images/unagaming.jpg",
+    "image": "image/charlie.png",
     "tags": ["HTML", "CSS", "Bootstrap", "Responsive", "JavaScript"]
   }
 ]

@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", () => {
               <div class="card h-100 shadow hover-shadow">
                 <img src="${p.image}" class="card-img-top" alt="${p.title}" style="height: 250px; object-fit: cover;">
                 <div class="card-body d-flex flex-column">
-                  <h5 class="card-title">${p.title}</h5>
+                  <h3 class="card-title">${p.title}</h1>
                   <p class="card-text flex-grow-1">${p.description}</p>
                   <div class="mb-3">
                     ${p.tags.map(t => `<span class="badge bg-primary me-1">${t}</span>`).join("")}
@@ -56,7 +56,7 @@ document.addEventListener("DOMContentLoaded", () => {
             <div class="card text-center h-100 border-0 shadow-sm">
               <div class="card-body">
                 <i class="${a.icon} fa-3x mb-3 text-primary"></i>
-                <h5 class="card-title">${a.title}</h5>
+                <h3 class="card-title">${a.title}</h1>
                 <p class="card-text"><strong>${a.issuer}</strong><br>${a.year}</p>
               </div>
             </div>
