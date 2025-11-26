@@ -9,6 +9,7 @@ A modern, data-driven single-page developer portfolio showcasing my journey, pro
 
 **Student Name**: THUAN NGUYEN  
 **Dev Profile**: [Click Here!](https://kise1205.github.io/Project-Alpha/)
+
 **Course**: CIS 376 – Web Development  
 **Instructor**: Dr. Barry Cumbie  
 **Project Type**: Final Developer Profile
@@ -156,3 +157,4 @@ Let’s build the future.
 
 
 --- 
+
