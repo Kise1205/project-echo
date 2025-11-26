@@ -125,7 +125,7 @@ fetch("data/projects.json")
 | **Languages**      | HTML5, CSS3, JavaScript (ES6+) |
 | **Framework**      | Bootstrap 5 |
 | **IDE**            | Visual Studio Code |
-| **AI Assistance**  | Grok (xAI) – code architecture and polish |
+| **AI Assistance**  | Grok (xAI) – code/md files architecture and polish |
 
 ---
 
@@ -156,5 +156,6 @@ Let’s build the future.
 
 
 --- 
+
 
 
