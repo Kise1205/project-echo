@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", () => {
           const card = `
             <div class="col">
               <div class="card h-100 shadow hover-shadow">
-                <img src="${p.image}" class="card-img-top" alt="${p.title}" style="height: 250px; object-fit: cover;">
+                <img src="${p.image}" loading="lazy" class="card-img-top" alt="${p.title}" style="height: 250px; object-fit: cover;">
                 <div class="card-body d-flex flex-column">
                   <h3 class="card-title">${p.title}</h1>
                   <p class="card-text flex-grow-1">${p.description}</p>
