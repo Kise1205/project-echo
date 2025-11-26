@@ -38,7 +38,6 @@ graph TD
     E --> F[Fetch API pulls<br>projects.json & achievements.json]
     F --> G[JavaScript dynamically creates cards]
     E --> H[zero-md renders this reflection.md]
-    style E fill:#e3f2fd,stroke:#1976d2
 ```
 
 **Development Process (Agile-inspired)**  

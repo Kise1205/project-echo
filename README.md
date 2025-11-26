@@ -20,8 +20,8 @@ A modern, data-driven single-page developer portfolio showcasing my journey, pro
 **Description:**  
 A clean, fast, fully responsive single-page application that dynamically loads projects and achievements from JSON using the Fetch API. Features live search/filter, Markdown-based reflection rendered with zero-md, and a professional design built with modern web standards.
 
-Live Site: https://kise1205.github.io/Kise1205/  
-Source Code: https://github.com/Kise1205/Kise1205
+Live Site: https://kise1205.github.io/project-echo/  
+Source Code: https://github.com/Kise1205/project-echo
 
 ---
 
@@ -37,9 +37,9 @@ Source Code: https://github.com/Kise1205/Kise1205
 
 | Validator              | Status                          | Link |
 |------------------------|----------------------------------|------|
-| **Nu HTML Checker**    | 100% Passed – No errors         | [Nu Report](https://validator.w3.org/nu/?doc=https%3A%2F%2Fkise1205.github.io%2FKise1205%2F) |
-| **WAVE Accessibility** | 100% Passed – Zero errors       | [WAVE Report](https://wave.webaim.org/report#/https://kise1205.github.io/Kise1205/) |
-| **Lighthouse (Bonus)** | 100/100 Performance & Accessibility | Chrome DevTools |
+| **Nu HTML Checker**    | 100% Passed – No errors         | [Nu Report](https://validator.w3.org/nu/?doc=https%3A%2F%2Fkise1205.github.io%2Fproject-echo%2F) |
+| **WAVE Accessibility** | 100% Passed – Zero errors       | [WAVE Report](https://wave.webaim.org/report#/https://kise1205.github.io/project-echo/) |
+| **Lighthouse** | 90/100 Accessibility | [Chrome DevTools](https://pagespeed.web.dev/analysis/https-kise1205-github-io-project-echo/wts720czv1?form_factor=mobile) |
 
 ---
 
@@ -64,7 +64,7 @@ GitHub Repository
      ↓ (GitHub Pages)
 Automatic Deploy → https://kise1205.github.io/Kise1205/
      ↓ (on load)
-Fetch API → projects.json + achievements.json → Render cards dynamically
+Fetch API → data.json + achievements.json → Render cards dynamically
      ↓
 zero-md → Renders reflection.md as beautiful HTML
 ```
